@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1505118380757-91f5f5632de0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Ocean Waves" style="border-radius: 10px; margin-bottom: 20px; width: 100%; max-width: 800px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B192C,100:1A365D&height=120&section=header" alt="Wave Banner" width="100%" />
   
   <br><br>
 
