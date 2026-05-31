@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B192C,100:1A365D&height=120&section=header" alt="Wave Banner" width="100%" />
-  
   <br><br>
-
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
